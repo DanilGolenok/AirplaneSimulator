@@ -1,0 +1,20 @@
+C:\Users\student\source\repos\AirplaneSimulator\AirplaneSimulator\bin\Debug\AirplaneSimulator.exe.config
+C:\Users\student\source\repos\AirplaneSimulator\AirplaneSimulator\bin\Debug\AirplaneSimulator.exe
+C:\Users\student\source\repos\AirplaneSimulator\AirplaneSimulator\bin\Debug\AirplaneSimulator.pdb
+C:\Users\student\source\repos\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.csprojAssemblyReference.cache
+C:\Users\student\source\repos\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.exe
+C:\Users\student\source\repos\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.pdb
+C:\Users\kakka\Desktop\AirplaneSimulator\AirplaneSimulator\bin\Debug\AirplaneSimulator.exe.config
+C:\Users\kakka\Desktop\AirplaneSimulator\AirplaneSimulator\bin\Debug\AirplaneSimulator.exe
+C:\Users\kakka\Desktop\AirplaneSimulator\AirplaneSimulator\bin\Debug\AirplaneSimulator.pdb
+C:\Users\kakka\Desktop\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.csprojAssemblyReference.cache
+C:\Users\kakka\Desktop\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.csproj.CoreCompileInputs.cache
+C:\Users\kakka\Desktop\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.exe
+C:\Users\kakka\Desktop\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.pdb
+D:\Все проекты\C# Console\AirplaneSimulator\AirplaneSimulator\bin\Debug\AirplaneSimulator.exe.config
+D:\Все проекты\C# Console\AirplaneSimulator\AirplaneSimulator\bin\Debug\AirplaneSimulator.exe
+D:\Все проекты\C# Console\AirplaneSimulator\AirplaneSimulator\bin\Debug\AirplaneSimulator.pdb
+D:\Все проекты\C# Console\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.csprojAssemblyReference.cache
+D:\Все проекты\C# Console\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.exe
+D:\Все проекты\C# Console\AirplaneSimulator\AirplaneSimulator\obj\Debug\AirplaneSimulator.pdb
